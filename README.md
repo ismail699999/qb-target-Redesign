@@ -34,3 +34,9 @@ Thanks for using my QB-Target Redesign
 
 If you would like me to edit a script to make it look different Color's etc create a ticket in the discord and I can change the design! 
 https://discord.gg/Uq4hyjkGvQ
+
+# Shoutout
+
+A huge shoutout to the Bulgarian behind this amazing idea!  
+Your creativity and passion truly inspire everyone around you.  
+Keep pushing boundaries and making great things happen!
