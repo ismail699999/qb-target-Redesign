@@ -1,7 +1,13 @@
 # qb-target-Redesign
-qb-target Redesign made by ismata
+This is a redesign of [qbcore-framework/qb-target](https://github.com/qbcore-framework/qb-target) BY ISMAIL
 
-This script is a COG of the original qb-target from QBCore framework
+✅ Updated visuals  
+✅ Better positioning  
+✅ Improved for custom UI use
+
+## License
+
+This project is licensed under GNU GPLv3 — see the LICENSE file
 
 
 # Preview: 
