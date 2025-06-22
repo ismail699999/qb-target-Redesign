@@ -37,6 +37,6 @@ https://discord.gg/Uq4hyjkGvQ
 
 # Shoutout
 
-A huge shoutout to the Bulgarian behind this amazing idea!  
+A huge shoutout to the Bulgar DEV behind this amazing idea for the ui!  
 Your creativity and passion truly inspire everyone around you.  
 Keep pushing boundaries and making great things happen!
